@@ -1,0 +1,1 @@
+['AMD Ryzen 9 5900X', 'AMD Radeon RX 6900XT', 'ASUS TUF Gaming X570-Plus(WiFi) ATX Motherboard', '64 GB DDR4', 'Corsair RMX White Series RM850x 850 Watt 80 Plus Gold Certified PSU(UK) Fully Modular Power Supply', 'Corsair 4000D Airflow Tempered Glass Mid-Tower ATX Case', 'Corsair Force Series MP600 1TB M.2 NVMe PCle SSD', '', '', '', '', '', '', 2473.49]
