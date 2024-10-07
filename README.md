@@ -1,16 +1,26 @@
 # PCSystemBuilder
-•	Allow the user to select items from different component categories including: CPU, GPU, Motherboard, RAM, Power Supply Unit, Case, Hard Drive (SSD/M.2/Mechanical)
- 
-•	Each item should have the following detailed included:Name; manufacturer, description (including relevant specifications and price.
+### Description
 
-•	The app should allow the user to select items and cost up the price of the build but only when each category has an item selected. The PC must include a CPU, GPU, motherboard, RAM, power supply unit, case and hard drive.
+PCSystemBuilder is a Python-based console application that allows users to build a custom PC by selecting from different components such as the processor, motherboard, memory, storage, and more. The application simulates a real-world PC configuration process and provides the user with a final summary of their build, including the total price of the selected components.
 
-•	The app should allow the user to make changes to the items selected before the build is finalized. 
+### Features
+• **Component Selection**: Choose from various components, including CPU, GPU, Motherboard, RAM, Storage, and Power Supply.<br>
+• **Cost Calculation**: The total cost of the PC is automatically calculated based on the selected parts.<br>
+• **Custom Configurations**: Users can customize the system by selecting parts that best suit their requirements and budget.<br>
+• **User-Friendly Console Interface**: Easy-to-use console-based interface that guides the user through the process step-by-step.
 
-In addition, the following functionality has been identified as desirable and should be implemented where possible:
+### How to Run
+1. Clone the repository:
+   ```https://github.com/mthMay/PCSystemBuilder.git```
+2. Navigate to the project directory:
+   ```cd PCSystemBuilder```
+3. Run the application:
+   ```python3 main.py```
+   
+**NOTE: Ensure Python 3 is installed on your system before running the application.**
 
-•	Allow the user to select optional items which can be added to the build including: Optical drive, second hard drive, computer monitor, sound card, mouse and keyboard. 
-
-•	App checks the combination of components to ensure they are compatible with one another. This only needs to be done regarding the processor, motherboard and GPU. For example, intel processors will not work with AMD motherboards and likewise an AMD motherboard will not support an NVidia GPUs. It is down to you to research the individual components to ensure compatibility.
-
-The program is to be implemented to work in a Python console application and should make use of the native Python libraries. 
+### How to Use
+1. Upon running the application, the user will be prompted to select components for building a custom PC.
+2. For each category (e.g., CPU, GPU, RAM), the user will be presented with a list of available options.
+3. Once all components are selected, the program will display a summary of the selected build, along with the total price.
+4. The user can review their choices or restart the process to build another PC.
