@@ -9,11 +9,11 @@ PCSystemBuilder is a Python-based console application that allows users to build
 • **User-Friendly Console Interface**: Easy-to-use console-based interface that guides the user through the process step-by-step.
 
 ### How to Run
-1. Clone the repository:
-   ```https://github.com/mthMay/PCSystemBuilder.git```
-2. Navigate to the project directory:
+1. Clone the repository:<br>
+   ```git clone https://github.com/mthMay/PCSystemBuilder.git```
+2. Navigate to the project directory:<br>
    ```cd PCSystemBuilder```
-3. Run the application:
+3. Run the application:<br>
    ```python3 main.py```
    
 **NOTE: Ensure Python 3 is installed on your system before running the application.**
