@@ -1,6 +1,5 @@
 # PCSystemBuilder
 ### Description
-
 PCSystemBuilder is a Python-based console application that allows users to build a custom PC by selecting from different components such as the processor, motherboard, memory, storage, and more. The application simulates a real-world PC configuration process and provides the user with a final summary of their build, including the total price of the selected components.
 
 ### Features
